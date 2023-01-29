@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a43f0c06-17ee-48c4-9e3d-a9f6b7493ef4" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaWorkSpace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic1/ArrEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic1/FileInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic1/FileOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic1/Gugu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic1/HelloJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic1/hi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap01/_01_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap01/_02_DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap01/_03_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chap01/_04_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/NotePad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic1/FileOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic1/FileOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic1/output01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic1/output01.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +44,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.language"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.FileOutput">
+  <component name="RunManager" selected="애플리케이션.NotePad">
     <configuration name="ArrEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic1.ArrEx" />
       <module name="JavaWorkSpace" />
@@ -112,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic1.HelloJ" />
+    <configuration name="NotePad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic1.NotePad" />
       <module name="JavaWorkSpace" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.NotePad" />
         <item itemvalue="애플리케이션.FileOutput" />
         <item itemvalue="애플리케이션.FileInput" />
         <item itemvalue="애플리케이션.ArrEx" />
         <item itemvalue="애플리케이션.Gugu" />
-        <item itemvalue="애플리케이션.HelloJ" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +134,7 @@
       <workItem from="1671872582267" duration="1254000" />
       <workItem from="1674728747225" duration="8277000" />
       <workItem from="1674872631611" duration="1763000" />
-      <workItem from="1674972159459" duration="11753000" />
+      <workItem from="1674972159459" duration="14962000" />
     </task>
     <servers />
   </component>
