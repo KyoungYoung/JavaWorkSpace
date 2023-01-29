@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a43f0c06-17ee-48c4-9e3d-a9f6b7493ef4" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWorkSpace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/ArrEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/FileInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/FileOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/Gugu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/HelloJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/hi.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap01/_01_HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap01/_02_DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap01/_03_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap01/_04_Scanner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JM0KFG0zzs1tBwuqrcXmcGblr8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.language"
+  }
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.FileOutput">
+    <configuration name="ArrEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic1.ArrEx" />
+      <module name="JavaWorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic1.FileInput" />
+      <module name="JavaWorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic1.FileOutput" />
+      <module name="JavaWorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gugu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic1.Gugu" />
+      <module name="JavaWorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic1.HelloJ" />
+      <module name="JavaWorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.FileOutput" />
+        <item itemvalue="애플리케이션.FileInput" />
+        <item itemvalue="애플리케이션.ArrEx" />
+        <item itemvalue="애플리케이션.Gugu" />
+        <item itemvalue="애플리케이션.HelloJ" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a43f0c06-17ee-48c4-9e3d-a9f6b7493ef4" name="변경" comment="" />
+      <created>1671872580026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671872580026</updated>
+      <workItem from="1671872582267" duration="1254000" />
+      <workItem from="1674728747225" duration="8277000" />
+      <workItem from="1674872631611" duration="1763000" />
+      <workItem from="1674972159459" duration="11753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
