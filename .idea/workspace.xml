@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a43f0c06-17ee-48c4-9e3d-a9f6b7493ef4" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basic1/NotePad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/ListArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/MethodEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic1/RandomMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic1/FileOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic1/FileOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic1/output01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basic1/output01.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,33 +47,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.NotePad">
-    <configuration name="ArrEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic1.ArrEx" />
-      <module name="JavaWorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic1.FileInput" />
-      <module name="JavaWorkSpace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basic1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.ListArray">
     <configuration name="FileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic1.FileOutput" />
       <module name="JavaWorkSpace" />
@@ -87,8 +61,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Gugu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic1.Gugu" />
+    <configuration name="ListArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic1.ListArray" />
+      <module name="JavaWorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic1.MethodEx" />
       <module name="JavaWorkSpace" />
       <extension name="coverage">
         <pattern>
@@ -113,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RandomMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic1.RandomMethod" />
+      <module name="JavaWorkSpace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.ListArray" />
+        <item itemvalue="애플리케이션.RandomMethod" />
+        <item itemvalue="애플리케이션.MethodEx" />
         <item itemvalue="애플리케이션.NotePad" />
         <item itemvalue="애플리케이션.FileOutput" />
-        <item itemvalue="애플리케이션.FileInput" />
-        <item itemvalue="애플리케이션.ArrEx" />
-        <item itemvalue="애플리케이션.Gugu" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,7 @@
       <workItem from="1671872582267" duration="1254000" />
       <workItem from="1674728747225" duration="8277000" />
       <workItem from="1674872631611" duration="1763000" />
-      <workItem from="1674972159459" duration="14962000" />
+      <workItem from="1674972159459" duration="19597000" />
     </task>
     <servers />
   </component>
