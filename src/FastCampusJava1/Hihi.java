@@ -1,10 +1,7 @@
-package Chap01;
+package FastCampusJava1;
 
-public class _01_HelloWorld {
+public class Hihi {
     public static void main(String[] args) {
         System.out.println("Hello World");
-
     }
-
-
 }
