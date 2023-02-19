@@ -19,5 +19,14 @@ public class HelloTest {
         System.out.println(temp);
         System.out.println(c);
         System.out.println(d);
+
+        byte value = 127;
+        //(1byte = 8bit, -2의 8승 <= 값 <= 2의 8승 - 1)
+        value++;
+        System.out.println(value);
+
+        byte value2 = -128;
+        value2--;
+        System.out.println(value2);
     }
 }
